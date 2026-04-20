@@ -1,0 +1,21 @@
+customer_id,full_name,country,risk_score,total_flagged,total_amount_spent,kyc_status
+NAB-C000279,Kofi Sani,Nigeria,115,169,2640439.47,Verified
+NAB-C000002,Ronke Zulu,Nigeria,115,168,2793269.75,Verified
+NAB-C000130,Aisha Hughes,Nigeria,115,165,2752171.16,Expired
+NAB-C000084,Samuel Taylor,Nigeria,115,163,2776207.71,Verified
+NAB-C000141,Dele Lewis,Nigeria,115,159,1720281.8900000001,Verified
+NAB-C000004,Aisha Wilson,United States,115,151,2583487.21,Verified
+NAB-C000083,Joseph Yakubu,United Kingdom,115,149,2223115.62,Verified
+NAB-C000079,Ahmed Davis,Kenya,115,143,2100438.37,Verified
+NAB-C000234,Sade Musa,Nigeria,115,137,2358746.19,Verified
+NAB-C000132,Lindiwe Wike,Nigeria,115,136,2260031.23,Pending
+NAB-C000134,Ibrahim Abubakar,Nigeria,115,132,1467515.97,Verified
+NAB-C000289,Yetunde Ibrahim,South Africa,115,131,1575966.3,Verified
+NAB-C000169,Ibrahim Mensah,Nigeria,115,130,1492782.67,Verified
+NAB-C000037,Ngozi Zulu,Nigeria,115,126,1737356.94,Verified
+NAB-C000113,Faith Ikenna,Nigeria,115,124,1359437.9,Verified
+NAB-C000129,Garba Saleh,France,115,123,2087595.15,Verified
+NAB-C000085,Safiya Saleh,Nigeria,115,123,1089306.61,Verified
+NAB-C000159,Tunde Boateng,Nigeria,115,122,1444142.67,Verified
+NAB-C000198,Garba Osei,Ghana,115,121,1626211.71,Verified
+NAB-C000201,Nomvula Saleh,UAE,115,119,1519222.87,Verified

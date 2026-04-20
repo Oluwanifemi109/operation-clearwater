@@ -1,0 +1,42 @@
+
+
+────────────────────────────────────────────────────────────
+OPERATION CLEAR WATER - EXECUTIVE RISK REPORT
+NorthAxis Bank | Risk Intelligence Division
+Period: Jan - Sep 2024 | REF: NAB-RI-2024-09
+────────────────────────────────────────────────────────────
+
+
+EXECUTIVE SUMMARY
+────────────────────────────────────────────────────────────
+
+Total Customers Analysed  : 8,000
+Critical Risk Accounts   : 231 ← TO BE FROZEN IMMEDIATELY
+High Risk Accounts    : 418 ← TO BE MONITORED CLOSELY
+Total Flagged Transactions : 19,741
+Estimated Amount at Risk  : $272,342,236.90
+
+
+KEY FRAUD SIGNALS DETECTED
+────────────────────────────────────────────────────────────
+
+1. Velocity Anomalies: Multiple transaction within minutes
+2. Off-hours Activity: Suspicious 1AM-4AM transaction spikes
+3. Impossible Travel: Same customer different location in less than 30 minutes
+4. Amount Spikes: Suddenly doing a transaction more than 3 times their own transaction average
+5. Shell Merchant Links: Transactions rooted through flagged merchants
+
+
+RECOMMENDATION
+────────────────────────────────────────────────────────────
+
+1. FREEZE - Immediately Suspend 231 Critical accounts 
+2. RESTRICT - Limit digital channel transactions above $500 pending review
+3. REVIEW - KYC re-verification for all High & Critical tier customers
+4. MONITOR - Real-time velocity alerts for accounts scoring above 20
+5. ESCALATE - Refer critical accounts to regulatory compliance team.
+
+────────────────────────────────────────────────────────────
+PREPARED BY : Risk Intelligence Division
+CONFIDENTIAL - FOR BOARD USE ONLY
+

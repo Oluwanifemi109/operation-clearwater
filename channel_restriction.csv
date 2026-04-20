@@ -1,0 +1,6 @@
+channel,flagged_transaction,total_transaction,total_amount,fraud_rate
+ATM,681,2158,17823309.2,31.56
+Branch,715,1404,18212813.3,50.93
+Mobile Banking,11198,15387,114627024.36,72.78
+POS,716,1896,19339480.25,37.76
+Web Banking,6431,9282,102339609.79,69.28
